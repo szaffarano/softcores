@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module bcd_4ditigs_counter(
+module bcd_4digits_counter(
 			input wire 	  en,
 			input wire 	  rst,
 			input wire 	  clk,

@@ -23,7 +23,7 @@ module counter(
 
 	one_second one_second (.clk(clk), .tick(tick));
 
-   	bcd_4digits_counter bcd_counter (
+   	bcd_4digits_counter bcd_4digits_counter (
 		.clk(clk),
 		.en(tick),
 		.rst(rst),

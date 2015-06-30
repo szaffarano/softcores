@@ -1,0 +1,43 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "a1" LOC = F17;
+NET "a2" LOC = H17;
+NET "a3" LOC = C18;
+NET "a4" LOC = F15;
+NET "a" LOC = L18;
+NET "b" LOC = F18;
+NET "c" LOC = D17;
+NET "d" LOC = D16;
+NET "e" LOC = G14;
+NET "f" LOC = J17;
+NET "g" LOC = H14;
+NET "en" LOC = B18;
+NET "rst" LOC = D18;
+NET "clk" LOC = B8;
+
+# PlanAhead Generated IO constraints 
+
+NET "a" IOSTANDARD = LVTTL;
+NET "a1" IOSTANDARD = LVTTL;
+NET "clk" IOSTANDARD = LVCMOS33;
+NET "a2" IOSTANDARD = LVTTL;
+NET "a3" IOSTANDARD = LVTTL;
+NET "a4" IOSTANDARD = LVTTL;
+NET "b" IOSTANDARD = LVTTL;
+NET "c" IOSTANDARD = LVTTL;
+NET "d" IOSTANDARD = LVTTL;
+NET "e" IOSTANDARD = LVTTL;
+NET "f" IOSTANDARD = LVTTL;
+NET "g" IOSTANDARD = LVTTL;
+NET "a" DRIVE = 8;
+NET "a1" DRIVE = 8;
+NET "a2" DRIVE = 8;
+NET "a3" DRIVE = 8;
+NET "a4" DRIVE = 8;
+NET "b" DRIVE = 8;
+NET "c" DRIVE = 8;
+NET "d" DRIVE = 8;
+NET "e" DRIVE = 8;
+NET "f" DRIVE = 8;
+NET "g" DRIVE = 8;
